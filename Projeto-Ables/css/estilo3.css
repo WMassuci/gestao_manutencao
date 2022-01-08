@@ -1,0 +1,186 @@
+
+/** Barra de navegação **/
+
+
+.nav-barra {
+
+	background: linear-gradient(50deg, #ffff, #E7EDEE);
+}
+
+
+
+.navbar-light .navbar-nav .nav-link{
+
+	color: #293e40;
+}
+
+
+.navbar-light .navbar-nav .nav-link:hover{
+
+	color: #bbc6c6;
+}
+
+
+.divisor{
+
+	background: #5b6f70;
+	width: 1px;
+	margin: 12px 15px;
+}
+
+
+.btn-barra{
+
+	border: 1px solid #293e40;
+	color: #293e40;
+}
+
+
+.btn-barra:hover{
+
+	background: #293e40;
+	color: white;
+}
+
+
+
+
+/** Capa **/
+
+
+#capa{
+
+	background: linear-gradient(50deg, #ffff, #E7EDEE);
+}
+
+
+
+
+/** Historia **/
+
+
+#historia{
+
+	padding: 30px 20px;
+}
+
+
+.texto-capa{
+
+	padding: 80px 0px;
+}
+
+
+.img-capa{
+
+	padding: 0px 0px;
+}
+
+
+.dev-texto{
+
+	color: #293e40;
+	font-weight: bold;
+}
+
+
+.texto-historia{
+
+	text-align: justify;
+}
+
+
+
+
+
+/** Seção foco.... **/
+
+
+
+#foco{
+
+	padding: 50px 10px;
+	background: #F3F3F3;
+}
+
+
+
+.title-foco{
+
+	padding-bottom: 30px;
+}
+
+
+.oportunidades{
+
+	padding-bottom: 30px;
+}
+
+
+
+
+
+/** Fale conosco **/
+
+
+#fale-conosco{
+
+	margin: 30px 0px;
+	padding: 30px 0px;
+	background: #a7d4df;
+}
+
+
+.btn-fale{
+
+	background: #293e40;
+	color: white;
+}
+
+
+
+.btn-fale:hover{
+
+	border: 1px solid #293e40;
+	background: #ffff;
+	color: #293e40;
+}
+
+
+
+
+/** Rodape **/
+
+
+footer {
+
+	padding: 30px;
+	background: #293e40;
+}
+
+
+
+footer h5{
+
+	color: #E0E3E3;
+	text-transform: uppercase;
+}
+
+
+footer a{
+
+	color: white;
+}
+
+
+footer a:hover{
+
+	color: #61FFFF;
+}
+
+
+.dev{
+
+	color: white;
+	margin-top: 5px;
+}

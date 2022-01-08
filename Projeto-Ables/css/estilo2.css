@@ -1,0 +1,292 @@
+
+
+/** Barra de navegação #E7EDEE**/
+
+
+.nave-back{
+
+	background: linear-gradient(50deg, #FFFFFF, #E7EDEE);
+}
+
+.navbar-light .navbar-nav .nav-link{
+
+	color: #293e40;
+}
+
+
+.navbar-light .navbar-nav .nav-link:hover{
+
+	color: #bbc6c6;
+}
+
+
+.btn-barra{
+
+	border: 1px solid #293e40;
+	color: #293e40;
+}
+
+
+.btn-barra:hover{
+
+	background:#293e40;
+	color: white;
+}
+
+
+
+/** Capa **/
+
+#capa{
+
+	/**padding: 40px;**/
+}
+
+.capa-texto{
+
+	background: linear-gradient(50deg, #FFFFFF, #FFFAFA);
+	padding: 20px 60px;
+}
+
+
+.text-back{
+
+	background: #293f40;
+	color: white;
+	width: 550px;
+	padding: 30px 20px;
+}
+
+.text-back p{
+
+	font-size: 25px;
+}
+
+
+.btn-capa{
+
+	border: 1px solid #B6F7F2;
+	padding: 10px 39px;
+	color: white;
+}
+
+
+
+.btn-capa:hover{
+
+	background: #B6F7F2;
+	color: #293e40;
+}
+
+
+
+.img-back{
+
+	background: #E7EDEE;
+}
+
+
+
+
+/** Seção Soluções **/
+
+
+
+.texto-beneficios{
+
+	padding: 10px;
+}
+
+
+.Trabalhe-beneficios{
+
+	padding: 10px;
+	color: #687373;
+}
+
+
+
+.color-1{
+
+	color: #50ECEC;
+}
+
+
+
+.color-2{
+
+	color: #E7A6F0;
+}
+
+
+
+.card-custom{
+
+	border-style: none;
+}
+
+
+.card-custom a{
+
+	color: #293e40;
+	font-weight: bold;
+}
+
+
+.card-custom a:hover{
+
+	background: #293e40;
+	color: white;
+}
+
+.card-custom-2{
+
+	border-style: none;
+	border-bottom: 1px solid #C6CACA;
+	background: white;
+}
+
+
+.text-solucao{
+
+	font-size: 22px;
+	padding-left: 10px;
+	color: #293e40;
+}
+
+
+
+
+.link-solucao{
+
+	padding: 10px;
+}
+
+
+
+
+
+/** Fale conosco **/
+
+
+#fale-conosco{
+
+	background: #a7d4df;
+	padding: 20px;
+	margin: 30px 0px;
+}
+
+
+#fale-conosco h2 p{
+
+	font-weight: bolder;
+}
+
+
+.btn-fale{
+
+	background: #293e40;
+	color: white;
+	font-weight: bold;
+}
+
+.btn-fale:hover{
+
+	background: white;
+	border: 1px solid #293e40;
+	color: #293e40;
+	font-weight: bold;
+}
+
+
+
+
+
+
+/** Rodape **/
+
+
+footer {
+
+	padding: 30px;
+	background: #293e40;
+}
+
+
+
+footer h5{
+
+	color: #E0E3E3;
+	text-transform: uppercase;
+}
+
+
+footer a{
+
+	color: white;
+}
+
+
+footer a:hover{
+
+	color: #61FFFF;
+}
+
+
+.dev{
+
+	color: white;
+	margin-top: 5px;
+}
+
+
+
+
+
+/** Medias queries **/
+
+
+/** Extra small devices (portrait phones, less than 576px) **/
+@media (max-width: 575.98px) {
+
+	.text-back{
+
+		width: 400px;
+	}
+
+}
+
+
+
+/** Small devices (landscape phones, 576px and up) **/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+
+}
+
+
+
+
+/** Medium devices (tablets, 768px and up) **/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+
+}
+
+
+
+
+/** Large devices (desktops, 992px and up) **/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+
+}
+
+
+
+
+/** Extra large devices (large desktops, 1200px and up) **/
+@media (min-width: 1200px) {
+
+
+}

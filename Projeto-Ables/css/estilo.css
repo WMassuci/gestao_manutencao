@@ -1,0 +1,282 @@
+
+/** Layout **/
+
+html, body {
+
+	height: 100%;
+}
+
+
+
+/** Barra de Navegação **/
+
+.divisor{
+
+	background: #5b6f70;
+	width: 1px;
+	margin: 12px 15px;
+
+}
+
+
+.troca-cor:hover{
+
+	background: white;
+}
+
+nav.nav-transparente{
+
+	padding: 15px 0px;
+	background: rgba(0,0,0,0.6);
+}
+
+
+
+.navbar-light .navbar-nav .nav-link{
+
+	color: #293e40;
+}
+
+
+.navbar-light .navbar-nav .nav-link:hover{
+
+	color: #bbc6c6;
+}
+
+
+
+/** Capa **/
+
+
+#capa{
+
+	background: linear-gradient(50deg, #C0DCDF, #EFF3F3);
+	padding-top: 50px;
+}
+
+.solucao{
+
+	margin: 100px 0px;
+	color: #293e40;
+}
+
+
+.solucao h2{
+
+	font-weight: bold;
+}
+
+
+.btn-cadastro{
+
+	border: 1px solid #293e40;
+	color: #293e40;
+}
+
+
+.btn-cadastro:hover {
+
+	background-color: #293e40;
+	color: white;
+}
+
+
+.btn-custom{
+
+	background: #293e40;
+	color: white;
+	width: 180px;
+}
+
+
+.btn-custom:hover{
+
+	color: white;
+	background: #9AB0B2;
+}
+
+
+
+
+
+/** Apresentação **/
+
+.apresentacao{
+
+	padding: 15px;
+	border-bottom: 1px solid #bbc6c6;
+	text-align: center;
+}
+
+
+.gestao{
+
+	margin: 20px 0px;
+}
+
+.texto-icon{
+
+	font-size: 20px;
+	margin-left: 10px;
+	color: #293e40;
+}
+
+
+
+
+
+/** Seção Ordens e serviços **/
+
+
+.ordens{
+
+	padding: 40px;
+}
+
+
+
+.texto-ordens{
+
+	padding-top: 60px;
+}
+
+.btn-ordens{
+
+	background: #293e40;
+	color: white;
+}
+
+
+.btn-ordens:hover{
+
+	background: #9AB0B2;
+	color: white;
+}
+
+
+
+
+/** Recursos **/
+
+
+.recursos{
+
+	padding: 40px;
+}
+
+
+
+/** Seção Material **/
+
+
+.material{
+
+	padding: 60px;
+	background-color: #E7EDEE;
+}
+
+.card h5{
+
+	color: #293e40;
+	font-weight: bold;
+}
+
+
+
+
+/** Rodape **/
+
+
+footer {
+
+	padding: 30px;
+	background: #293e40;
+}
+
+
+
+footer h5{
+
+	color: #E0E3E3;
+	text-transform: uppercase;
+}
+
+
+footer a{
+
+	color: white;
+}
+
+
+footer a:hover{
+
+	color: #61FFFF;
+}
+
+
+.dev{
+
+	color: white;
+	margin-top: 5px;
+}
+
+
+
+
+
+
+/** Medias queries **/
+
+
+/** Extra small devices (portrait phones, less than 576px) **/
+@media (max-width: 575.98px) {
+
+	.texto-ordens{
+
+		margin-bottom: 80px;
+	}
+
+
+
+	.card{
+
+		margin-bottom: 10px;
+	}
+
+}
+
+
+
+/** Small devices (landscape phones, 576px and up) **/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+
+}
+
+
+
+
+/** Medium devices (tablets, 768px and up) **/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+
+}
+
+
+
+
+/** Large devices (desktops, 992px and up) **/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+
+}
+
+
+
+
+/** Extra large devices (large desktops, 1200px and up) **/
+@media (min-width: 1200px) {
+
+
+}
+

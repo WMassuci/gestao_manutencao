@@ -1,0 +1,181 @@
+
+/** Barra de navegação **/
+
+
+.nav-barra-cor{
+
+	background: linear-gradient(50deg, #C0DCDF, #EFF3F3);
+}
+
+.navbar-light .navbar-nav .nav-link{
+
+	color: #293e40;
+}
+
+
+.navbar-light .navbar-nav .nav-link:hover{
+
+	color: #bbc6c6;
+}
+
+
+
+.divisor{
+
+	background: #293e40;
+	width: 1px;
+	margin: 12px 15px;
+}
+
+
+
+.btn-barra{
+
+	border: 1px solid #293e40;
+	color: #293e40;
+}
+
+
+
+.btn-barra:hover{
+
+	background: #293e40;
+	color: white;
+}
+
+
+
+
+/** Capa **/
+
+
+#capa{
+
+	background: linear-gradient(50deg, #C0DCDF, #EFF3F3);
+}
+
+
+.capa-contato{
+
+	padding: 100px 20px;
+}
+
+
+
+
+
+
+/** Beneficios **/
+
+
+#beneficios{
+
+	background: #E6E2E6;
+	margin: 50px 0px;
+	padding: 30px 0px;
+}
+
+
+
+.texto-beneficios{
+
+	padding: 10px;
+}
+
+
+.Trabalhe-beneficios{
+
+	padding: 10px;
+	color: #687373;
+}
+
+
+
+.color-1{
+
+	color: #50ECEC;
+}
+
+
+
+.color-2{
+
+	color: #E7A6F0;
+}
+
+
+
+
+
+/** Contato **/
+
+
+#contato{
+
+	border-top: 1px solid #C6C6C6;
+	padding: 40px 10px;
+}
+
+
+
+.texto-contato{
+
+	color: #293e40;
+}
+
+
+
+.btn-contato{
+
+	background: #293e40;
+	color: white;
+}
+
+
+
+.btn-contato:hover{
+
+	background: white;
+	border: 1px solid #293e40;
+	color: #293e40;
+}
+
+
+
+
+
+/** Rodape **/
+
+
+footer {
+
+	padding: 30px;
+	background: #293e40;
+}
+
+
+
+footer h5{
+
+	color: #E0E3E3;
+	text-transform: uppercase;
+}
+
+
+footer a{
+
+	color: white;
+}
+
+
+footer a:hover{
+
+	color: #61FFFF;
+}
+
+
+.dev{
+
+	color: white;
+	margin-top: 5px;
+}
